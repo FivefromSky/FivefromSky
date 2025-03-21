@@ -1,3 +1,1 @@
-- 👋 Hi, I’m SA5
-- 🌱 I’m currently learning Language C
-- 📫 How to reach me : instagram via @fivefromsky
+
